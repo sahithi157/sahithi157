@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sahithi157/sahithi157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sahithi, a B.Tech CSE (AIML) student.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Web Development
+- Game Development
+- Artificial Intelligence
+
+🚀 My goal is to become a Game Developer.
